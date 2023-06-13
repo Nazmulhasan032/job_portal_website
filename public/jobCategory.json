@@ -1,0 +1,28 @@
+[
+      {
+        "id": "1",
+        "logo": "https://i.ibb.co/F7sL986/accounts.png",
+        "name": "Acme Inc.",
+        "jobs_available": "220"
+        
+      },
+      {
+        "id": "2",
+        "logo": "https://i.ibb.co/ys83x6S/business.png",
+        "name": "MarketingPro",
+        "jobs_available": "100+"
+      },
+      {
+        "id": "3",
+        "logo": "https://i.ibb.co/PMjqZ12/chip.png",
+        "name": "TechCorp",
+        "jobs_available": "150"
+      },
+      {
+        "id": "4",
+        "logo": "https://i.ibb.co/j5PqwFY/social-media.png",
+        "name": "InfluenceCo",
+        "jobs_available": "250+"
+      }
+    ]
+  

@@ -1,0 +1,41 @@
+.person-image{
+    margin-left: 70px;
+    width: 500px;
+    height: 430px;
+}
+.job-container{
+    width: 80%;
+    margin:auto;
+}
+.job-cart{
+    background-color: #F9F8FF;
+    border-radius: 8px;
+
+}
+.job-image-container{
+    background-color: #F0ECFF;
+    height: 70px;
+    width: 70px;
+}
+.feature-cart{
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+}
+.job-image{
+    height: 60px;
+    width:60;
+    margin:auto;
+}
+
+.job-btn{
+    font-weight: bold;
+    color: #8489FE;
+    padding:6px 12px;
+    border:1px solid #8489FE;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+.feature-job-img{
+    width: 120px;
+    height: 60px;
+}

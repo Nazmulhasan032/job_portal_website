@@ -1,0 +1,34 @@
+.container{
+    width: 80%;
+    margin:auto;
+    display: flex;
+    padding-top: 50px;
+}
+
+.header-logo{
+    font-size: 30px;
+    font-weight: 400;
+}
+.link-area{
+    margin-left: 150px;
+}
+.btn-apply{
+   margin-left: 200px;
+}
+.btn{
+    background-color: #8B82FF;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .container{
+        flex:none;
+    }
+    .link-area{
+        margin-left: 50px;
+    }
+    .btn-apply{
+       margin-left: 20px;
+    }
+  }
